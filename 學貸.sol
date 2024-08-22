@@ -67,15 +67,6 @@ contract loan {
 
         });
         
-        // students.push(student({
-        //     studentAddress : _studentAddress,
-        //     schoolAddress : _schoolAddress,
-        //     studentID : _studentID,
-        //     schoolName : _schoolName,
-        //     studentName : _studentName,
-        //     allLoanMoney : _amount,
-        //     loanNum : 0
-        // }));
         studentNum ++;
     }
 
